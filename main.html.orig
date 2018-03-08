@@ -8,11 +8,23 @@
   <body>
 	
 	<h1>Titel</h1>
-<<<<<<< HEAD
+	<p>this is share</p>
 	
-=======
-	<p>this is stable</p>
-	<p>this is stable second line</p>
->>>>>>> parent of ec90b26... Merge branch 'home-dev-1' into home-stable
+	<p>this is dev</p>
+	<p>This is for Developing</p>
+	<p>This is for Developing 1</p>
+	
+	
+	
+	
+	<list>
+		<list-item>First</list-item>
+		<list-item>Second</list-item>
+		<list-item>Third</list-item>
+	</list>
+	
+	
+	
+	
   </body>
 </html>
