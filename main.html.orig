@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Titel</title>
+  </head>
+  <body>
+	
+	<h1>Titel</h1>
+<<<<<<< HEAD
+	
+=======
+	<p>this is stable</p>
+	<p>this is stable second line</p>
+>>>>>>> parent of ec90b26... Merge branch 'home-dev-1' into home-stable
+  </body>
+</html>
